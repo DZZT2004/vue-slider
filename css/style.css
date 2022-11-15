@@ -6,7 +6,7 @@
 }
 
 .image{
-    background-image: url("img/01.webp");
+    background-image: url("../img/01.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -48,6 +48,10 @@ button{
 
 .b2{
     align-items: flex-end;
+	position: relative;
+	top: 60%;
+	left: 45%;
+	
 }
 
 h2, p{
